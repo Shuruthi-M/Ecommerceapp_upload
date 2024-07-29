@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shuruthi-M/Ecommerceapp_upload.git/static/css/main.e37385cb.css",
+    "main.js": "/Shuruthi-M/Ecommerceapp_upload.git/static/js/main.a9c52a9b.js",
+    "static/media/slide1.jpg": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/slide1.1c9849dcfc0c30ff488e.jpg",
+    "static/media/slide3.jpg": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/slide3.a1759bc1ef1178554e66.jpg",
+    "static/media/slide2.jpg": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/slide2.b08fb960ec4d0601dd2b.jpg",
+    "static/media/right.png": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/right.df427d194dc8bd154b1b.png",
+    "static/media/fa-solid-900.ttf": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Shuruthi-M/Ecommerceapp_upload.git/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/Shuruthi-M/Ecommerceapp_upload.git/index.html",
+    "main.e37385cb.css.map": "/Shuruthi-M/Ecommerceapp_upload.git/static/css/main.e37385cb.css.map",
+    "main.a9c52a9b.js.map": "/Shuruthi-M/Ecommerceapp_upload.git/static/js/main.a9c52a9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e37385cb.css",
+    "static/js/main.a9c52a9b.js"
+  ]
+}
