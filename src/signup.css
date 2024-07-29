@@ -1,0 +1,192 @@
+.signup {
+  height: 100vh;
+  background-color: darkblue;
+  align-items: center;
+  justify-content: center;
+  display: flex; 
+  padding:20px;
+}
+ .sign {
+  width:700px;
+  border: 1px solid;
+  border-radius: 10px;
+  height: 500px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+}
+
+
+.sign h3 {
+  color: black;
+  text-align: center;
+  font-size: 25px;
+}
+
+.sign span {
+  font-size: 15px;
+}
+
+.sign #firstname, .sign #lastname, .sign #email, .sign #password, .sign #mobile, .sign #birthdate {
+    border-radius: 5px;
+    padding: 5px;
+    border-bottom: 1px solid black;
+    width: 150px;
+	}
+
+.sign button{
+  width: 150px;
+  padding: 10px;
+  border: none;
+  background-color: darkblue;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-left: 140px;
+  height: 30px;
+  align-items: center;
+  
+}
+
+.sign form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.sign input {
+  border-radius: 5px;
+  padding: 10px;
+  width: 150px;
+}
+
+.column1,.column2
+{
+   display: flex;
+   flex-direction: column;
+   padding: 10px;
+   gap: 10px;
+   margin-right: 50px;
+}
+.column
+{
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+ 
+}
+.path
+{ 
+
+text-align: center;
+}
+span
+{
+   margin-Left: 5px;
+}
+
+.sub
+{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid white;
+  width: 450px;
+  height: 300px;
+  margin-left: 100px;
+}
+@media (max-width: 1200px) {
+  .sign {
+      width: 600px;
+      height: auto;
+  }
+}
+
+@media (max-width: 992px) {
+  .sign {
+      width: 500px;
+      height: auto;
+      padding: 15px;
+  }
+
+  .sign button {
+      margin-left: 90px;
+  }
+
+  .sub {
+      width: 400px;
+      margin-left: 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sign {
+      width: 90%;
+      height: auto;
+  }
+
+  .sign #firstname, .sign #lastname, .sign #email, .sign #password, .sign #mobile, .sign #birthdate, .sign input {
+      width: 100%;
+  }
+
+  .sign button {
+      width: 100%;
+      margin-left: 0;
+      text-align: center;
+  }
+
+  .column {
+    display: flex;
+  flex-direction: row;
+  margin-left: 0px;
+  } 
+  .column1, .column2 {
+      margin-right: 0;
+  }
+
+  .sub
+{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid white;
+  width: 300px;
+  height: 0px;
+  margin-left: 100px;
+}
+}
+
+@media (max-width: 576px) {
+  .sign {
+      padding: 10px;
+  }
+
+  .sign h3 {
+      font-size: 20px;
+  }
+
+  .sign span {
+      font-size: 14px;
+  }
+
+  .sign button {
+      padding: 8px;
+  }
+
+  .sign input {
+      padding: 8px;
+  }
+  .sub
+{
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: 1px solid white;
+  width: 450px;
+  height: 300px;
+  margin-left: 100px;
+}
+}
+

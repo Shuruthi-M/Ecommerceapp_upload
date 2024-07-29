@@ -1,0 +1,85 @@
+body
+{
+ background-color: plum;
+}
+.app {
+  padding: 20px;
+}
+
+#api {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+#data {
+  display: flex;
+  border: 1px solid beige;
+  margin-bottom: 10px;
+  background-color: beige;
+}
+
+.left, .right {
+  padding: 10px;
+}
+
+.image-style {
+  width: 100px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.right {
+  flex-grow: 1;
+}
+
+.right h2 {
+  font-size: 1.2rem;
+}
+
+.right h3 {
+  font-size: 1.1rem;
+}
+
+.right p {
+  font-size: 0.9rem;
+}
+#navbar
+{
+  list-style-type: none;
+  display: flex;
+  margin-left: 10px;
+  width: 700px;
+  
+}
+.navbar1
+{
+    
+    width: 100px;
+}
+a{
+    text-decoration-line: none;
+   
+}
+#left
+{
+  display: flex;
+}
+#left h1
+{
+  padding-bottom: 10px;
+  color: purple;
+  margin-right: 400px;
+  font-style: italic;
+  font-family: Garamond, serif;
+  
+}
+h4
+{
+  font-weight: 500;
+  font-size: 70px;
+  font-style: italic;
+  font-family:'Garamond, serif';
+  text-align: center;
+  color: darkviolet;
+}
